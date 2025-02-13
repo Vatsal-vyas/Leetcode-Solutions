@@ -1,0 +1,28 @@
+
+import java.util.HashMap;
+import java.util.Map;
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        // Map to store the indices of the numbers we have seen so far
+        Map<Integer, Integer> numberIndexMap = new HashMap<>();
+
+        for (int currentIndex = 0; currentIndex < nums.length; currentIndex++) {
+            int currentNumber = nums[currentIndex];
+
+            // Calculate the number we need to reach the target
+            int numberNeeded = target - currentNumber;
+
+            // Check if the needed number exists in the map
+            if (numberIndexMap.containsKey(numberNeeded)) {
+                return new int[] {numberIndexMap.get(numberNeeded), currentIndex};
+            }
+
+            // Store the current number and its index in the map
+            numberIndexMap.put(currentNumber, currentIndex);
+        }
+
+        // Return null if no solution is found
+        return null;
+    }
+}
