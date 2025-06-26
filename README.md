@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vatsal-vyas/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0682-baseball-game](https://github.com/Vatsal-vyas/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Vatsal-vyas/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Stack
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vatsal-vyas/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Vatsal-vyas/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
