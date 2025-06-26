@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vatsal-vyas/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsal-vyas/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0682-baseball-game](https://github.com/Vatsal-vyas/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Vatsal-vyas/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Stack
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Vatsal-vyas/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsal-vyas/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
